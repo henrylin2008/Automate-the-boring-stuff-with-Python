@@ -1,5 +1,27 @@
 1. What is the function that creates Regex objects?
     -re.compile() function returns Regex objects
+
 2. Why are raw strings often used when creating Regex objects?
     -Raw strings are used so that backslashes do not have to be escaped
+
+3. What does the search() method return?
+    -match objects
+
+4. How do you get the actual strings that match the pattern from a Match object?
+    -group()
+
+5. In the regex created from r'(\d\d\d)-(\d\d\d-\d\d\d\d)', what does group 0 cover? Group 1? Group 2?
+    -group 0 covers entire match; group 1 covers 3 digits in first parentheses;
+     group 2 covers second set of the parentheses
+
+6. Parentheses and periods have specific meanings in regular expression syntax.
+   How would you specify that you want a regex to match actual parentheses and period characters?
+   - 
+7. The findall() method returns a list of strings or a list of tuples of strings. What makes it return one or the other?
+8. What does the | character signify in regular expressions?
+9. What two things does the ? character signify in regular expressions?
+10. What is the difference between the + and * characters in regular expressions?
+11. What is the difference between {3} and {3,5} in regular expressions?
+12. What do the \d, \w, and \s shorthand character classes signify in regular expressions?
+13. What do the \D, \W, and \S shorthand character classes signify in regular expressions?
 
