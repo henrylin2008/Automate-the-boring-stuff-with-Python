@@ -1,0 +1,5 @@
+1. What is the function that creates Regex objects?
+    -re.compile() function returns Regex objects
+2. Why are raw strings often used when creating Regex objects?
+    -Raw strings are used so that backslashes do not have to be escaped
+
