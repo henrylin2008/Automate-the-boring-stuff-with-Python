@@ -46,6 +46,7 @@
     -passing a re.I or re.IGNORECASE as the second argument to re.compile()
 
 15. What does the . character normally match? What does it match if re.DOTALL is passed as the second argument to re.compile()?
+
 16. What is the difference between .* and .*??
 17. What is the character class syntax to match all numbers and lowercase letters?
 18. If numRegex = re.compile(r'\d+'), what will numRegex.sub('X', '12 drummers, 11 pipers, five rings, 3 hens') return?
