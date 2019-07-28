@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69316403-d3ec-429f-8a3c-576c17c5fdd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/phoneAndEmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch12_Web_Scraping/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Automate-the-boring-stuff-with-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automate-the-boring-stuff-with-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +16,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/isPhoneNumber.py">
+        <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/phoneAndEmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="361">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/RegexObjects.py">
+        <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/Practice_questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="453">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/phoneAndEmail.py">
+        <entry file="file://$PROJECT_DIR$/Ch12_Web_Scraping/calc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="19">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -48,6 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>author</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,12 +66,22 @@
         <option value="$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/isPhoneNumber.py" />
         <option value="$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/RegexObjects.py" />
         <option value="$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/phoneAndEmail.py" />
+        <option value="$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/Practice_questions" />
+        <option value="$PROJECT_DIR$/Ch12_Web_Scraping/mapIt.py" />
+        <option value="$PROJECT_DIR$/Ch12_Web_Scraping/example.html" />
+        <option value="$PROJECT_DIR$/Ch12_Web_Scraping/lucky.py" />
+        <option value="$PROJECT_DIR$/Ch12_Web_Scraping/calc.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="x" value="2864" />
     <option name="y" value="117" />
+=======
+    <option name="x" value="1118" />
+    <option name="y" value="57" />
+>>>>>>> Stashed changes
     <option name="width" value="1460" />
     <option name="height" value="944" />
   </component>
@@ -85,7 +103,7 @@
             <path>
               <item name="Automate-the-boring-stuff-with-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Automate-the-boring-stuff-with-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch7_Pattern_Matching_with_Regular_Expressions" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch12_Web_Scraping" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,26 +142,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563925645300</updated>
-      <workItem from="1563925650523" duration="3499000" />
+      <workItem from="1563925650523" duration="16677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3499000" />
+    <option name="totallyTimeSpent" value="16780000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="222" y="23" width="1460" height="944" extended-state="0" />
+    <frame x="1118" y="57" width="1460" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.174189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121297605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -151,49 +163,78 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32994923" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3977433" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch 7. Pattern Matching with Regular Expressions/isPhoneNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch7_ Pattern_Matching_with_Regular_Expressions/isPhoneNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 7. Pattern Matching with Regular Expressions/isPhoneNumber.py" />
+    <entry file="file://$PROJECT_DIR$/Ch7_ Pattern_Matching_with_Regular_Expressions/isPhoneNumber.py" />
     <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/isPhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch12_Web_Scraping/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/RegexObjects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state relative-caret-position="-64">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/phoneAndEmail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="361">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch12_Web_Scraping/mapIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch12_Web_Scraping/lucky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch7_Pattern_Matching_with_Regular_Expressions/Practice_questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch12_Web_Scraping/calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
