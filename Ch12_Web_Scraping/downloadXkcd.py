@@ -26,7 +26,13 @@ while not url.endswith('#'):
         res.raise_for_status()
 
     # TODO: Save the image to ./xkcd.
+    imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)), 'wb')
+    for chunk in res.iter_content(10000):
+        imageFile.write(chunk)
+    imageFile.close()
 
     # TODO: Get the Prev button's url.
+    prevLink = soup.select('a[rel="prev"]')[0]
+    url = 'https://xkcd.com' + prevLink.get('href')
 
 print('Done.')
