@@ -1,4 +1,4 @@
-import imapclient
+import imapclient, pyzmail
 
 conn = imapclient.IMAPClient('imap.gmail.com', ssl=True) # yes, using ssl encryption
 conn.login('hlin@contextlogic.com', 'wftuyzbmxfurlhco') #("email address", "pw")
